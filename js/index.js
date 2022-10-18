@@ -19,10 +19,10 @@ setInterval(()=>{
 
     const draw=()=>{
         if(dx>0 || dx<0){
-            player.style.backgroundImage=`url('../img/templerun/Run__00${index++}.png')`;
+            player.style.backgroundImage=`url('img/templerun/Run__00${index++}.png')`;
             if(index>9) index=0;
         }else{
-            player.style.backgroundImage=`url('../img/templerun/Idle__00${index++}.png')`;
+            player.style.backgroundImage=`url('img/templerun/Idle__00${index++}.png')`;
             if(index>9) index=0;
         }
         if(dy>0 || dy<0){
