@@ -29,6 +29,16 @@ body {
   right: 0;
   position: absolute;
   bottom: 0;
+  z-index: 999;
+}
+
+#ground2 {
+  background-image: url("../img/graveyardtilesetnew/png/Tiles/Tile (2).png");
+  height: 100px;
+  left: 0;
+  right: 0;
+  position: absolute;
+  bottom: 0;
 }
 
 .turn {
@@ -40,6 +50,62 @@ body {
   height: 200px;
   position: absolute;
   right: 0;
+}
+
+#tree {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  bottom: 130px;
+  right: 0;
+}
+
+#arrow {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  top: 410px;
+  left: 60px;
+}
+
+#tile1 {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  bottom: 0;
+  left: 2000px;
+}
+
+#tile3 {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  bottom: 0;
+  left: 2050px;
+}
+
+#alert {
+  position: absolute;
+  height: 250px;
+  width: 600px;
+  background-color: rgb(82, 76, 76);
+  z-index: 1100;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 3rem;
+  left: 50%;
+  top: 25%;
+  transform: translate(-50%);
+  border-radius: 20px;
+}
+
+#bg {
+  height: 100vh;
+  width: 100vw;
+  position: relative;
+  z-index: 1050;
+  background-color: rgba(105, 101, 101, 0.5);
 }
 
 /*# sourceMappingURL=style.css.map */
