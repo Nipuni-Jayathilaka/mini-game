@@ -1,7 +1,11 @@
 # MINI-GAME
-This is a simple game clone made for the game world
+This is a simple game clone made for the game world using the following tech stack.
 
-
+## Tech stack 
+* HTML
+* CSS
+* SCSS
+* Java Script
 
 ## How to copy this repo
 * Open the terminal at the place where we want to clone the project.
