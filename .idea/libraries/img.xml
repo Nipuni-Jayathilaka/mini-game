@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="img">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/img/templerun.zip!/" />
+      <root url="jar://$PROJECT_DIR$/img/graveyardtilesetnew.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
