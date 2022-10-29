@@ -1,5 +1,5 @@
 # MINI-GAME
-This is a simple game clone made for the game world using the following tech stack.
+This is a simple game clone UI designed for the game world using the following tech stack.
 
 ## Tech stack 
 * HTML
